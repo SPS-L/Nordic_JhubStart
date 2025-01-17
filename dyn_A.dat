@@ -271,7 +271,6 @@ SYNC_MACH g20 g20 1. 1.  0.  0. 4500. 4275. 3. 0. 0.95
               EXC GENERIC1   1.8991 -0.1  0.  1.  100. -1. -11  10.  70.  10.  20. 0.1  0.  4.
                                 1     0.    5.    1.    1.     1.    1.       0.     0.
               TOR HYDRO_GENERIC1  0.08  2.0  0.  2.00  0.40  0.2    0.1   1.0 ;
-              #TOR CONSTANT ;
 
 #LOAD           inj_name bus_name FP FQ P Q  DP A1 alpha1 A2 alpha2 alpha3 DQ B1 beta1 B2 beta2 beta3 ;
 #INJEC vfd_load inj_name bus_name FP FQ P Q  DP A1 alpha1 A2 alpha2 alpha3 DQ B1 beta1 B2 beta2 beta3 Vinit Trest Vmin foption Tmes ; 

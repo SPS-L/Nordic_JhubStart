@@ -13,6 +13,7 @@ $LATENCY 20. F                    ;
 $SCHEME DE                        ; 
 $OMEGA_REF COI                    ;
 $OMP DYN 0                        ;
+$SPARSE_SOLVER KLU                ;
 
 $NET_FREQ_UPD F ;
 
